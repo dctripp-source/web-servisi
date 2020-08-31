@@ -112,6 +112,6 @@ TH{color:#FFFFFF;font-family:verdana;background-color:#336699}
     }
 } 
 ?> 
-
+/ Danijele kralju/
 </body>
 </html>
