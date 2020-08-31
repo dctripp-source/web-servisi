@@ -36,6 +36,7 @@ or die(mysql_error());
 
   echo "Web servisi baza podataka uspješno kreirana";
 ?>
+okiii
 
 
 
