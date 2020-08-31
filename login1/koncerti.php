@@ -38,6 +38,7 @@ or die(mysql_error());
 ?>
 Sekana najjacaaa
 familija jos jacaaa
-
+Opaaaaasnoo Brudis
+Draga draga
 
 
