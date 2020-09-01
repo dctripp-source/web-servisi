@@ -67,7 +67,7 @@
 
                 <table align="center">
                   <tr>
-                    <th colspan="6">KONCERTI <input type=button onClick="location.href='add.php?action=add&id'" value='DODAJ'></th>
+                    <th colspan="6">KONCERTI <input type=button onClick="location.href='add.php?action=add'" value='DODAJ'></th>
                   </tr>
                   <tr>
                   <th>Ime grupe</th>
