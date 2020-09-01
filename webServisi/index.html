@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<title>Login</title>
+		<link rel="icon" href="images/music.png">
+		<link rel="stylesheet" href="../webServisi/style.css">
+		<script src="https://unpkg.com/ionicons@5.1.2/dist/ionicons.js"></script>
+
+	</head>
+	<body class="pozadina">
+		<div class="login">
+			<h1>Login</h1>
+			<form action="authenticate.php" method="post">
+				<label for="username">
+					<ion-icon class="icon_login" name="person-circle"></ion-icon>
+				</label>
+				<input type="text" name="username" placeholder="Username" id="username" required>
+				<label for="password">
+					<ion-icon class="icon_login" name="lock-closed"></ion-icon>
+				</label>
+				<input type="password" name="password" placeholder="Password" id="password" required>
+				<input type="submit" value="Login">
+			</form>
+		</div>
+	</body>
+</html>
