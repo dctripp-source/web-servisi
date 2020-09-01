@@ -57,7 +57,7 @@
                         $imeKoncerta = $row["$columnname"];
                         echo "<option>$imeKoncerta<br></option>";
                       }
-                    }
+                    } 
                   ?>
                 </select>
                 <input type="submit" name="submit" >
